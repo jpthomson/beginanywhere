@@ -1,0 +1,889 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gallery-Bank\n"
+"POT-Creation-Date: 2014-05-06 13:08+0530\n"
+"PO-Revision-Date: 2014-05-06 14:10+0530\n"
+"Last-Translator: \n"
+"Language-Team: Tech-Banker <support@tech-banker.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: I:\\Kiran-work-Backup\\2014\\Gallery-Bank-Latest"
+"\\3.8.2\\gallery-bank-pro-edition\\\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: front_views/gallery-bank-shortcode.php:4
+msgid "Insert Gallery Bank Shortcode"
+msgstr "插入Gallery - Bank 短码"
+
+#: front_views/gallery-bank-shortcode.php:6
+msgid "Select an album below to add it to your post or page."
+msgstr "选择下面的一张专辑，将其添加到您的文章或页面。"
+
+#: front_views/gallery-bank-shortcode.php:11
+msgid "Gallery Type"
+msgstr "外廊式"
+
+#: front_views/gallery-bank-shortcode.php:13
+msgid "Albums with Images"
+msgstr "相册与图片"
+
+#: front_views/gallery-bank-shortcode.php:15
+msgid "Only Images"
+msgstr "只有图像的"
+
+#: front_views/gallery-bank-shortcode.php:18
+msgid "Album Format"
+msgstr "专辑格式化"
+
+#: front_views/gallery-bank-shortcode.php:20
+msgid "Select Album Format"
+msgstr "选择-相册格式"
+
+#: front_views/gallery-bank-shortcode.php:27 lib/include_widget.php:33
+msgid "Select Album"
+msgstr "选取-相簿"
+
+#: front_views/gallery-bank-shortcode.php:29
+msgid "Select an Album"
+msgstr "选择一个相簿"
+
+#: front_views/gallery-bank-shortcode.php:45 lib/include_widget.php:46
+msgid "Gallery Format"
+msgstr "画廊格式"
+
+#: front_views/gallery-bank-shortcode.php:47
+msgid "Select Gallery Format "
+msgstr "选择廊格式化"
+
+#: front_views/gallery-bank-shortcode.php:56 views/album-preview.php:38
+#: views/images-sorting.php:233
+msgid "Images in Row"
+msgstr "图像-的 在 排"
+
+#: front_views/gallery-bank-shortcode.php:61
+msgid "Image Width"
+msgstr "图像宽度"
+
+#: front_views/gallery-bank-shortcode.php:66 views/album-sorting.php:184
+msgid "Albums in Row"
+msgstr "相册在排"
+
+#: front_views/gallery-bank-shortcode.php:71 lib/include_widget.php:62
+msgid "Text Format"
+msgstr "文本格式"
+
+#: front_views/gallery-bank-shortcode.php:73
+msgid "Select Format "
+msgstr "选择格式"
+
+#: front_views/gallery-bank-shortcode.php:80
+msgid "Special Effects"
+msgstr "的特殊效果"
+
+#: front_views/gallery-bank-shortcode.php:166
+msgid "Animation Effects"
+msgstr "动画 效果 效果"
+
+#: front_views/gallery-bank-shortcode.php:217
+msgid "Show Responsive Gallery"
+msgstr "显示Responsive图库"
+
+#: front_views/gallery-bank-shortcode.php:221
+msgid "Show Album Title"
+msgstr "显示相簿 标题"
+
+#: front_views/gallery-bank-shortcode.php:226
+msgid "Insert Album"
+msgstr "插入-相簿"
+
+#: front_views/gallery-bank-shortcode.php:229
+msgid "Cancel"
+msgstr "取消"
+
+#: front_views/gallery-bank-shortcode.php:541
+msgid "Please select an Album"
+msgstr "请选择一个相簿"
+
+#: front_views/gallery-bank-shortcode.php:545
+msgid "Please select an Album Format"
+msgstr "请选择一个相簿格式化"
+
+#: front_views/gallery-bank-shortcode.php:549
+msgid "Please select a Gallery Images Format"
+msgstr "请选择一个- 图库-图像格式化"
+
+#: front_views/gallery-bank-shortcode.php:553
+msgid "Please select a Text Format for the Gallery"
+msgstr "请选择一个文本格式的对于该廊"
+
+#: front_views/includes_common_before.php:1443
+msgid "VIEW ALL"
+msgstr "查看此作者所有"
+
+#: gallery-bank.php:97 gallery-bank.php:118 gallery-bank.php:153
+#: gallery-bank.php:213 gallery-bank.php:234 gallery-bank.php:269
+#: gallery-bank.php:328 gallery-bank.php:349 gallery-bank.php:384
+#: gallery-bank.php:443 gallery-bank.php:464 gallery-bank.php:499
+#: gallery-bank.php:558 gallery-bank.php:579 gallery-bank.php:614
+msgid "<img src=\""
+msgstr ""
+
+#: gallery-bank.php:99 gallery-bank.php:120 gallery-bank.php:155
+#: gallery-bank.php:215 gallery-bank.php:236 gallery-bank.php:271
+#: gallery-bank.php:330 gallery-bank.php:351 gallery-bank.php:386
+#: gallery-bank.php:445 gallery-bank.php:466 gallery-bank.php:501
+#: gallery-bank.php:560 gallery-bank.php:581 gallery-bank.php:616
+msgid "/wp-admin/admin.php?page=gallery_bank"
+msgstr ""
+
+#: gallery-bank.php:106 gallery-bank.php:127 gallery-bank.php:162
+#: gallery-bank.php:222 gallery-bank.php:243 gallery-bank.php:278
+#: gallery-bank.php:337 gallery-bank.php:358 gallery-bank.php:393
+#: gallery-bank.php:452 gallery-bank.php:473 gallery-bank.php:508
+#: gallery-bank.php:567 gallery-bank.php:588 gallery-bank.php:623
+#: lib/gallery-bank-class.php:19 lib/gallery-bank-class.php:24
+#: lib/gallery-bank-class.php:34 lib/gallery-bank-class.php:50
+#: lib/gallery-bank-class.php:55 lib/gallery-bank-class.php:65
+#: lib/gallery-bank-class.php:81 lib/gallery-bank-class.php:86
+#: lib/gallery-bank-class.php:96 lib/gallery-bank-class.php:112
+#: lib/gallery-bank-class.php:117 lib/gallery-bank-class.php:127
+#: lib/gallery-bank-class.php:143 lib/gallery-bank-class.php:148
+#: lib/gallery-bank-class.php:158
+msgid "Dashboard"
+msgstr "仪表盘"
+
+#: gallery-bank.php:134 gallery-bank.php:169 gallery-bank.php:250
+#: gallery-bank.php:285 gallery-bank.php:365 gallery-bank.php:400
+#: gallery-bank.php:480 gallery-bank.php:515 gallery-bank.php:595
+#: gallery-bank.php:630 lib/gallery-bank-class.php:25
+#: lib/gallery-bank-class.php:35 lib/gallery-bank-class.php:56
+#: lib/gallery-bank-class.php:66 lib/gallery-bank-class.php:87
+#: lib/gallery-bank-class.php:97 lib/gallery-bank-class.php:118
+#: lib/gallery-bank-class.php:128 lib/gallery-bank-class.php:149
+#: lib/gallery-bank-class.php:159 views/add-new-album.php:73
+#: views/add-new-album.php:80 views/dashboard.php:130 views/dashboard.php:139
+#: views/dashboard.php:150 views/dashboard.php:159 views/dashboard.php:170
+#: views/dashboard.php:179 views/dashboard.php:190 views/dashboard.php:199
+#: views/dashboard.php:210 views/dashboard.php:219
+msgid "Add New Album"
+msgstr "添加新相簿"
+
+#: gallery-bank.php:141 gallery-bank.php:176 gallery-bank.php:257
+#: gallery-bank.php:292 gallery-bank.php:372 gallery-bank.php:407
+#: gallery-bank.php:487 gallery-bank.php:522 gallery-bank.php:602
+#: gallery-bank.php:637 lib/gallery-bank-class.php:26
+#: lib/gallery-bank-class.php:36 lib/gallery-bank-class.php:57
+#: lib/gallery-bank-class.php:67 lib/gallery-bank-class.php:88
+#: lib/gallery-bank-class.php:98 lib/gallery-bank-class.php:119
+#: lib/gallery-bank-class.php:129 lib/gallery-bank-class.php:150
+#: lib/gallery-bank-class.php:160
+msgid "Album Sorting"
+msgstr "专辑分拣"
+
+#: gallery-bank.php:183 gallery-bank.php:299 gallery-bank.php:414
+#: gallery-bank.php:529 gallery-bank.php:644 lib/gallery-bank-class.php:37
+#: lib/gallery-bank-class.php:68 lib/gallery-bank-class.php:99
+#: lib/gallery-bank-class.php:130 lib/gallery-bank-class.php:161
+#: views/settings.php:283 views/settings.php:290
+msgid "Global Settings"
+msgstr "全局设置"
+
+#: gallery-bank.php:190 gallery-bank.php:306 gallery-bank.php:421
+#: gallery-bank.php:536 gallery-bank.php:651 lib/gallery-bank-class.php:38
+#: lib/gallery-bank-class.php:69 lib/gallery-bank-class.php:100
+#: lib/gallery-bank-class.php:131 lib/gallery-bank-class.php:162
+#: views/gallery-bank-system-report.php:12
+#: views/gallery-bank-system-report.php:17
+msgid "System Status"
+msgstr "系统状态"
+
+#: gallery-bank.php:204 gallery-bank.php:320 gallery-bank.php:435
+#: gallery-bank.php:550 gallery-bank.php:665 lib/gallery-bank-class.php:40
+#: lib/gallery-bank-class.php:71 lib/gallery-bank-class.php:102
+#: lib/gallery-bank-class.php:133 lib/gallery-bank-class.php:164
+msgid "Licensing"
+msgstr "发牌"
+
+#: lib/add-new-album-class.php:85 views/edit-album.php:294
+#: views/edit-album.php:301
+msgid " Set as Album Cover"
+msgstr "设为如-相簿封面"
+
+#: lib/add-new-album-class.php:86 views/edit-album.php:306
+msgid " Rotate Image"
+msgstr "旋转图像"
+
+#: lib/add-new-album-class.php:89 lib/add-new-album-class.php:157
+#: views/edit-album.php:243 views/edit-album.php:309
+msgid "Enter your Title"
+msgstr "输入您的题名"
+
+#: lib/add-new-album-class.php:90 lib/add-new-album-class.php:158
+#: views/edit-album.php:248 views/edit-album.php:314
+msgid "Enter your Description "
+msgstr "输入您的-描述"
+
+#: lib/add-new-album-class.php:92 lib/add-new-album-class.php:160
+#: views/edit-album.php:254 views/edit-album.php:320
+msgid "Enter your Tags"
+msgstr "输入您的标签"
+
+#: lib/add-new-album-class.php:96 views/edit-album.php:341
+msgid "Delete Image"
+msgstr "删除形象"
+
+#: lib/add-new-album-class.php:162 views/edit-album.php:264
+msgid "Delete Video"
+msgstr "删除-视频"
+
+#: lib/gallery-bank-class.php:18 lib/gallery-bank-class.php:23
+#: lib/gallery-bank-class.php:33 lib/gallery-bank-class.php:49
+#: lib/gallery-bank-class.php:54 lib/gallery-bank-class.php:64
+#: lib/gallery-bank-class.php:80 lib/gallery-bank-class.php:85
+#: lib/gallery-bank-class.php:95 lib/gallery-bank-class.php:111
+#: lib/gallery-bank-class.php:116 lib/gallery-bank-class.php:126
+#: lib/gallery-bank-class.php:142 lib/gallery-bank-class.php:147
+#: lib/gallery-bank-class.php:157 views/add-new-album.php:71
+#: views/album-preview.php:12 views/album-sorting.php:138
+#: views/edit-album.php:86 views/gallery-bank-system-report.php:10
+#: views/gallery_bank_documentation.php:7 views/images-sorting.php:181
+#: views/licensing.php:17 views/settings.php:281 views/settings.php:1335
+#: views/settings.php:1342
+msgid "Gallery Bank"
+msgstr "Gallery Bank"
+
+#: lib/gallery-bank-class.php:543
+msgid "Add Gallery using Gallery Bank"
+msgstr "添加 廊 用 gallery Bank"
+
+#: lib/include_widget.php:24
+msgid "Title"
+msgstr "标题"
+
+#: lib/include_widget.php:29
+msgid "Select Gallery"
+msgstr "选取廊"
+
+#: lib/include_widget.php:50
+msgid "Select Gallery Format"
+msgstr "选择-画廊 格式"
+
+#: lib/include_widget.php:56
+msgid "Images In Row"
+msgstr "图片在排"
+
+#: lib/include_widget.php:66
+msgid "Select Text Format"
+msgstr "选择-文本格式"
+
+#: lib/include_widget.php:73
+msgid "Special Effect"
+msgstr "特别镀膜"
+
+#: lib/include_widget.php:77
+msgid "Select Special Effect"
+msgstr "选择特别镀膜"
+
+#: lib/include_widget.php:85 views/settings.php:349 views/settings.php:563
+msgid "Width"
+msgstr "宽度"
+
+#: lib/include_widget.php:85 views/settings.php:359 views/settings.php:573
+msgid "Height"
+msgstr "高度"
+
+#: lib/include_widget.php:94
+msgid "Animation Effect"
+msgstr "动画-效应"
+
+#: lib/include_widget.php:148
+msgid "Responsive Gallery"
+msgstr "Responsive图库"
+
+#: views/add-new-album.php:85 views/add-new-album.php:226
+#: views/album-preview.php:25 views/album-sorting.php:152
+#: views/edit-album.php:99 views/edit-album.php:362
+#: views/gallery_bank_documentation.php:21 views/images-sorting.php:195
+#: views/settings.php:294 views/settings.php:1644
+msgid "Back to Albums"
+msgstr "返回相册"
+
+#: views/add-new-album.php:88 views/add-new-album.php:224
+msgid "Save and Submit Changes"
+msgstr "保存并送出变更"
+
+#: views/add-new-album.php:94
+msgid "Album Published. Kindly wait for the redirect to happen."
+msgstr "相簿-发布时间。敬请等待对于-重定向- 至-发生。"
+
+#: views/add-new-album.php:102 views/edit-album.php:111
+msgid "Album Details"
+msgstr "相簿详情"
+
+#: views/add-new-album.php:107 views/dashboard.php:240
+#: views/edit-album.php:115
+msgid "Album Title"
+msgstr "专辑标题"
+
+#: views/add-new-album.php:113 views/edit-album.php:120
+msgid "Enter your Album Title"
+msgstr "进入 您的 专辑标题"
+
+#: views/add-new-album.php:119 views/edit-album.php:127
+msgid "Description"
+msgstr "描述"
+
+#: views/add-new-album.php:133 views/edit-album.php:141
+msgid "Upload Images"
+msgstr "上载 图像的"
+
+#: views/add-new-album.php:140 views/edit-album.php:148
+msgid "Your browser doesn\"t have Flash, Silverlight or HTML5 support."
+msgstr "您的浏览器不具有闪光，Silverlight的或HTML5的支持。"
+
+#: views/add-new-album.php:148
+msgid "Upload Images "
+msgstr "上传图片"
+
+#: views/add-new-album.php:149 views/edit-album.php:157
+msgid "Your Wordpress Version doesn\"t support Wp-media."
+msgstr "您的-WordPress版本并不支持WP-Media。"
+
+#: views/add-new-album.php:159 views/edit-album.php:168
+msgid "Upload Videos"
+msgstr "上传视频"
+
+#: views/add-new-album.php:163 views/edit-album.php:172
+msgid "Video Url"
+msgstr "视频网址"
+
+#: views/add-new-album.php:169 views/edit-album.php:176
+msgid "Enter your Video Url"
+msgstr "进入您的-视频网址"
+
+#: views/add-new-album.php:176 views/edit-album.php:182
+msgid "Upload Video"
+msgstr "上传视频"
+
+#: views/add-new-album.php:187 views/edit-album.php:193
+msgid "Your Gallery Bank Album"
+msgstr "你的Gallery Bank相簿"
+
+#: views/add-new-album.php:198 views/edit-album.php:202
+msgid "Delete"
+msgstr "删除"
+
+#: views/add-new-album.php:201 views/dashboard.php:239
+#: views/edit-album.php:205
+msgid "Thumbnail"
+msgstr "缩略"
+
+#: views/add-new-album.php:204 views/edit-album.php:208
+msgid "Title & Description"
+msgstr "标题和-描述"
+
+#: views/add-new-album.php:207 views/edit-album.php:211
+msgid "Tags (comma separated list)"
+msgstr "标签（用逗号分隔的列表）"
+
+#: views/add-new-album.php:210 views/edit-album.php:214
+msgid "Url to Redirect on click of an Image"
+msgstr "网址至重定向-上-点击-之-一个图像"
+
+#: views/add-new-album.php:445 views/edit-album.php:621
+msgid "Are you sure you want to delete this Image?"
+msgstr "您确定要删除这个形象？"
+
+#: views/add-new-album.php:485 views/edit-album.php:669
+msgid "Are you sure you want to delete these Images?"
+msgstr "阿勒您确定要删除这些图像的？"
+
+#: views/album-preview.php:14 views/album-preview.php:21
+msgid "Album Preview"
+msgstr "专辑试听"
+
+#: views/album-preview.php:43 views/album-sorting.php:189
+#: views/images-sorting.php:237
+msgid "Please Choose"
+msgstr "请选择"
+
+#: views/album-sorting.php:140 views/album-sorting.php:147
+msgid "Re-Order Albums"
+msgstr "重新排序相册"
+
+#: views/album-sorting.php:154 views/images-sorting.php:197
+msgid "Update Order"
+msgstr "更新订购"
+
+#: views/album-sorting.php:157 views/images-sorting.php:200
+msgid "Sorting Order has been updated."
+msgstr "分拣 秩序有一直 更新。"
+
+#: views/dashboard.php:110
+msgid "Attention! A new vesion of Gallery Bank is available for download."
+msgstr "关注！画廊银行的新版本可供下载。"
+
+#: views/dashboard.php:111
+msgid "Click"
+msgstr "点击"
+
+#: views/dashboard.php:111
+msgid "here"
+msgstr "这里"
+
+#: views/dashboard.php:112
+msgid "to upgrade your version of Gallery Bank."
+msgstr "升级你的画廊银行版本的"
+
+#: views/dashboard.php:120
+msgid "Dashboard - Gallery Bank"
+msgstr "仪表板 - Gallery Bank"
+
+#: views/dashboard.php:131 views/dashboard.php:140 views/dashboard.php:151
+#: views/dashboard.php:160 views/dashboard.php:171 views/dashboard.php:180
+#: views/dashboard.php:191 views/dashboard.php:200 views/dashboard.php:211
+#: views/dashboard.php:220
+msgid "Delete All Albums"
+msgstr "删除所有相册"
+
+#: views/dashboard.php:132 views/dashboard.php:141 views/dashboard.php:152
+#: views/dashboard.php:161 views/dashboard.php:172 views/dashboard.php:181
+#: views/dashboard.php:192 views/dashboard.php:201 views/dashboard.php:212
+#: views/dashboard.php:221
+msgid "Purge Images & Albums"
+msgstr "吹扫图像及相册"
+
+#: views/dashboard.php:133 views/dashboard.php:142 views/dashboard.php:153
+#: views/dashboard.php:162 views/dashboard.php:173 views/dashboard.php:182
+#: views/dashboard.php:193 views/dashboard.php:202 views/dashboard.php:213
+#: views/dashboard.php:222
+msgid "Restore Factory Settings"
+msgstr "恢复出厂设置"
+
+#: views/dashboard.php:233
+msgid "Existing Albums Overview"
+msgstr "现有-相册-概述"
+
+#: views/dashboard.php:241
+msgid "Total Images"
+msgstr "共有图像的"
+
+#: views/dashboard.php:242
+msgid "Date of Creation"
+msgstr "日期 中 创作"
+
+#: views/dashboard.php:384 views/dashboard.php:404 views/dashboard.php:421
+#: views/dashboard.php:441 views/dashboard.php:458 views/dashboard.php:478
+#: views/dashboard.php:495 views/dashboard.php:515 views/dashboard.php:532
+#: views/dashboard.php:552
+msgid "Preview Album"
+msgstr "预览 -专辑"
+
+#: views/dashboard.php:394 views/dashboard.php:431 views/dashboard.php:468
+#: views/dashboard.php:505 views/dashboard.php:542 views/edit-album.php:88
+#: views/edit-album.php:95
+msgid "Edit Album"
+msgstr "编辑相簿"
+
+#: views/dashboard.php:399 views/dashboard.php:436 views/dashboard.php:473
+#: views/dashboard.php:510 views/dashboard.php:547
+#: views/images-sorting.php:183 views/images-sorting.php:190
+msgid "Re-Order Images"
+msgstr "重新排序影像"
+
+#: views/dashboard.php:409 views/dashboard.php:446 views/dashboard.php:483
+#: views/dashboard.php:520 views/dashboard.php:557
+msgid "Delete Album"
+msgstr "删除相册"
+
+#: views/dashboard.php:661
+msgid "Are you sure you want to delete this Album?"
+msgstr "您确定要删除这个相簿吗？"
+
+#: views/dashboard.php:674
+msgid "Are you sure you want to delete all Albums?"
+msgstr "您确定要删除所有相册？"
+
+#: views/dashboard.php:686
+msgid "Are you sure you want to Restore Factory Settings?"
+msgstr "您确定要恢复出厂设置？"
+
+#: views/dashboard.php:702
+msgid "Are you sure you want to Purge all Images & Albums?"
+msgstr "您确定要吹扫所有的图像及相册？"
+
+#: views/edit-album.php:100 views/edit-album.php:361
+msgid "Update Album"
+msgstr "更新相册"
+
+#: views/edit-album.php:104
+msgid "Album Updated. Kindly wait for the redirect to happen."
+msgstr "相簿更新-敬请等待对于-重定向- 至-发生。"
+
+#: views/edit-album.php:156
+msgid "Upload Thumbnails "
+msgstr "上传的缩略图"
+
+#: views/gallery-bank-system-report.php:20
+msgid "Get System Report"
+msgstr "获取系统报告"
+
+#: views/gallery-bank-system-report.php:24
+msgid "Close System Report"
+msgstr "关闭系统报告"
+
+#: views/gallery-bank-system-report.php:115 views/settings.php:1360
+#: views/settings.php:1367
+msgid "Default"
+msgstr "默认"
+
+#: views/gallery_bank_documentation.php:9
+#: views/gallery_bank_documentation.php:16
+msgid "Gallery Bank Documentation"
+msgstr "Gallery Bank文档资料"
+
+#: views/licensing.php:19 views/licensing.php:34
+msgid "Gallery Bank Licensing Module"
+msgstr "Gallery Bank发牌模块"
+
+#: views/licensing.php:95
+msgid "Update"
+msgstr "更新"
+
+#: views/licensing.php:126
+msgid "Success! Settings have been updated."
+msgstr "成功！设置已更新。"
+
+#: views/settings.php:295
+msgid "Restore Settings"
+msgstr "恢复设置"
+
+#: views/settings.php:296 views/settings.php:1642
+msgid "Update Settings"
+msgstr "更新设置"
+
+#: views/settings.php:300
+msgid "Settings has been updated."
+msgstr "设置一直更新。"
+
+#: views/settings.php:305
+msgid "Success! Settings have been restored."
+msgstr "成功！的设置-一直经恢复。"
+
+#: views/settings.php:312
+msgid "Thumbnail Settings"
+msgstr "缩略图的设置"
+
+#: views/settings.php:322
+msgid "Thumbnail Size"
+msgstr "缩略-尺寸"
+
+#: views/settings.php:329 views/settings.php:337 views/settings.php:543
+#: views/settings.php:551 views/settings.php:1362 views/settings.php:1370
+msgid "Original"
+msgstr "原"
+
+#: views/settings.php:332 views/settings.php:340 views/settings.php:546
+#: views/settings.php:554
+msgid "Custom"
+msgstr "习俗"
+
+#: views/settings.php:371 views/settings.php:584 views/settings.php:1039
+msgid "Opacity"
+msgstr "不透明度"
+
+#: views/settings.php:383 views/settings.php:596 views/settings.php:1050
+msgid "Border Size"
+msgstr "边框大小"
+
+#: views/settings.php:394 views/settings.php:608 views/settings.php:1061
+msgid "Border Radius"
+msgstr "边界的-半径为"
+
+#: views/settings.php:405 views/settings.php:620 views/settings.php:1086
+msgid "Border Color"
+msgstr "边框颜色"
+
+#: views/settings.php:419
+msgid "Margin Between Images"
+msgstr "余量- 之间影像"
+
+#: views/settings.php:429 views/settings.php:679 views/settings.php:1072
+msgid "Text Color"
+msgstr "文字颜色"
+
+#: views/settings.php:443 views/settings.php:695 views/settings.php:1146
+msgid "Text-Align"
+msgstr "文本-对准"
+
+#: views/settings.php:457 views/settings.php:709 views/settings.php:844
+#: views/settings.php:1160 views/settings.php:1428
+msgid "Font-Family"
+msgstr "字体家人"
+
+#: views/settings.php:480 views/settings.php:732 views/settings.php:1183
+msgid "Heading Font-Size"
+msgstr "打头-字体大小"
+
+#: views/settings.php:497 views/settings.php:749 views/settings.php:1200
+msgid "Text Font-Size"
+msgstr "文本字体大小"
+
+#: views/settings.php:514 views/settings.php:766
+msgid "Description Length"
+msgstr "描述长度"
+
+#: views/settings.php:526
+msgid "Album Cover Settings"
+msgstr "相簿封面-的设置"
+
+#: views/settings.php:536
+msgid "Cover Size"
+msgstr "封面尺寸"
+
+#: views/settings.php:634
+msgid "Show Albums"
+msgstr "显示专辑"
+
+#: views/settings.php:640 views/settings.php:648
+msgid "Responsive"
+msgstr "Responsive"
+
+#: views/settings.php:643 views/settings.php:650
+msgid "With Albums in Row"
+msgstr "随着专辑在排"
+
+#: views/settings.php:659
+msgid "Margin Between Albums"
+msgstr "余量-间 -相册"
+
+#: views/settings.php:669
+msgid "Text for Album Click"
+msgstr "文字对于-相簿单击"
+
+#: views/settings.php:778
+msgid "Filter Settings"
+msgstr "过滤器设置"
+
+#: views/settings.php:788
+msgid "Filters"
+msgstr "筛选器"
+
+#: views/settings.php:795 views/settings.php:803 views/settings.php:1224
+#: views/settings.php:1232 views/settings.php:1250 views/settings.php:1257
+#: views/settings.php:1275 views/settings.php:1282 views/settings.php:1299
+#: views/settings.php:1306 views/settings.php:1474 views/settings.php:1481
+#: views/settings.php:1537 views/settings.php:1545 views/settings.php:1586
+#: views/settings.php:1594
+msgid "Enable"
+msgstr "启用"
+
+#: views/settings.php:798 views/settings.php:806 views/settings.php:1227
+#: views/settings.php:1235 views/settings.php:1252 views/settings.php:1260
+#: views/settings.php:1277 views/settings.php:1284 views/settings.php:1301
+#: views/settings.php:1308 views/settings.php:1476 views/settings.php:1484
+#: views/settings.php:1540 views/settings.php:1548 views/settings.php:1589
+#: views/settings.php:1597
+msgid "Disable"
+msgstr "禁用"
+
+#: views/settings.php:816
+msgid "Filter Color"
+msgstr "过滤-颜色"
+
+#: views/settings.php:830
+msgid "Filter Text Color"
+msgstr "过滤-文本颜色"
+
+#: views/settings.php:867 views/settings.php:1451
+msgid "Font-Size"
+msgstr "字体大小"
+
+#: views/settings.php:887
+msgid "Roles & Capabilities"
+msgstr "角色与能力的"
+
+#: views/settings.php:897
+msgid "Privileges for Admin"
+msgstr "的特权对于管理员入口"
+
+#: views/settings.php:901 views/settings.php:917 views/settings.php:933
+#: views/settings.php:950 views/settings.php:968
+msgid "Full Control"
+msgstr "完全控制"
+
+#: views/settings.php:904 views/settings.php:920 views/settings.php:936
+#: views/settings.php:953 views/settings.php:971
+msgid "Read"
+msgstr "阅读"
+
+#: views/settings.php:907 views/settings.php:923 views/settings.php:939
+#: views/settings.php:956 views/settings.php:974
+msgid "Write"
+msgstr "写"
+
+#: views/settings.php:913
+msgid "Privileges for Editor"
+msgstr "的权限对于-辑器"
+
+#: views/settings.php:929
+msgid "Privileges for Author"
+msgstr "的权限对于-作者"
+
+#: views/settings.php:945
+msgid "Privileges for Contributor"
+msgstr "的权限对于-投稿人"
+
+#: views/settings.php:962
+msgid "Privileges for Subscriber"
+msgstr "的特权-对于订阅"
+
+#: views/settings.php:984
+msgid "Lightbox Settings"
+msgstr "光-盒-的设置"
+
+#: views/settings.php:994
+msgid "Lightbox Type"
+msgstr "光-盒型"
+
+#: views/settings.php:1100
+msgid "Inline Background"
+msgstr "直列背景"
+
+#: views/settings.php:1114
+msgid "Overlay Background"
+msgstr "覆盖图背景"
+
+#: views/settings.php:1128
+msgid "Fade In Time"
+msgstr "淡入- 在时间"
+
+#: views/settings.php:1137
+msgid "Fade Out Time"
+msgstr "淡出出时间"
+
+#: views/settings.php:1217
+msgid "Facebook Comments"
+msgstr "Facebook 评论"
+
+#: views/settings.php:1244
+msgid "Social Sharing"
+msgstr "社会共享"
+
+#: views/settings.php:1269
+msgid "Image Title"
+msgstr "形象题名"
+
+#: views/settings.php:1293
+msgid "Image Description"
+msgstr "形象-描述"
+
+#: views/settings.php:1319
+msgid "Image Uploader Settings"
+msgstr "图像发布者的设置"
+
+#: views/settings.php:1329
+msgid "Uploader for Images"
+msgstr "图片出版商"
+
+#: views/settings.php:1337 views/settings.php:1345
+msgid "WP Media"
+msgstr "WP Media"
+
+#: views/settings.php:1354
+msgid "Change Uploading Image Name"
+msgstr "更改上传图片名称"
+
+#: views/settings.php:1381
+msgid "Front - End Layout Settings"
+msgstr "前面- 结束布局设置"
+
+#: views/settings.php:1391
+msgid "Text for Back Button"
+msgstr "文本对于-后退按钮"
+
+#: views/settings.php:1401
+msgid "Button Color"
+msgstr "按钮颜色"
+
+#: views/settings.php:1414
+msgid "Button Text Color"
+msgstr "按钮-文本颜色"
+
+#: views/settings.php:1468
+msgid "Album Seperator"
+msgstr "相簿分离器"
+
+#: views/settings.php:1493
+msgid "Image url location"
+msgstr "图片URL位置"
+
+#: views/settings.php:1499 views/settings.php:1506
+msgid "Open in New Window"
+msgstr "在新窗口打开"
+
+#: views/settings.php:1501 views/settings.php:1509
+msgid "Same Window"
+msgstr "同一窗口"
+
+#: views/settings.php:1520
+msgid "Pagination Settings for Images"
+msgstr "的分页的设置- 对于-影像"
+
+#: views/settings.php:1530
+msgid "Paging"
+msgstr "分页"
+
+#: views/settings.php:1557
+msgid "No. of Images Per Page "
+msgstr "数每页影像"
+
+#: views/settings.php:1569
+msgid "Slide Show Settings"
+msgstr "幻灯片播放的设置"
+
+#: views/settings.php:1579
+msgid "Auto Play"
+msgstr "自动-播放"
+
+#: views/settings.php:1606
+msgid "Interval"
+msgstr "间隔"
+
+#: views/settings.php:1619
+msgid "Language Direction Settings"
+msgstr "语种-方向的-设置"
+
+#: views/settings.php:1629
+msgid "Language Direction"
+msgstr "语种方向的"
+
+#: views/settings.php:1966
+msgid "Are you sure you want to restore settings?"
+msgstr "您确定要恢复设置？"
+
+#~ msgid "Documentation"
+#~ msgstr "文档"
+
+#~ msgid "Check Plugin Update"
+#~ msgstr "检查-插件更新"
+
+#~ msgid "Video Thumbnails"
+#~ msgstr "视频缩略图"
+
+#~ msgid "Video Thumbnail Path"
+#~ msgstr "视频缩略图-路径"
+
+#~ msgid "Enter your Video Thumbnail Url"
+#~ msgstr "输入您的-视频缩略图网址"
+
+#~ msgid "Thumbnail Width"
+#~ msgstr "缩略-宽度"
+
+#~ msgid "Thumbnail Height"
+#~ msgstr "缩略高度"
